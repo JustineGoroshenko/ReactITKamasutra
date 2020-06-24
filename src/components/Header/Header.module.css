@@ -1,0 +1,13 @@
+.header{
+   grid-area: h;
+   background: linear-gradient(-190deg , rgb(21, 212, 85), rgb(186, 44, 199));
+ }
+ .header_img{
+   margin: 0;
+ }
+ .header img{
+   height: 50px;
+   width: 50px;
+ }
+ 
+ 
